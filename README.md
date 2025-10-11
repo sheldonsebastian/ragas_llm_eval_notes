@@ -1,2 +1,3 @@
-# ragas_llm_eval_explore
-Repository to explore LLM Evaluations using RAGAS framework 
+# Exploring RAGAS for evaluating LLMs
+
+Repository to explore LLM Evaluations using RAGAS framework
