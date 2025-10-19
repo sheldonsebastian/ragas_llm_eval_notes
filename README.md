@@ -2,11 +2,18 @@
 
 Repository to explore LLM Evaluations using RAGAS framework
 
-- Insert big picture diagram
+- Insert big picture diagram w/ start here
+
+## Repository Hierarchy
+
+|Name|Description|
+|----|----|
+|0_rag_setup.ipynb|Notebook that explains RAG and how to setup RAG on your local machine|
 
 ## Steps to recreate
 
-....
+1. ....
+2. .....
 
 ## Data Sources
 
