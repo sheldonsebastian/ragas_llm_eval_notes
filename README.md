@@ -1,5 +1,7 @@
 # Exploring RAGAS for evaluating LLMs
 
+**Udemy course link: https://www.udemy.com/course/rag-llm-evaluation-ai-test/**
+
 Repository to explore LLM Evaluations using RAGAS framework
 
 - Insert big picture diagram w/ start here
