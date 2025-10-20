@@ -4,7 +4,7 @@
 
 Repository to explore LLM Evaluations using RAGAS framework
 
-- Insert big picture diagram w/ start here
+<image src="assets/Map to explore repo.png">
 
 ## Repository Hierarchy
 
