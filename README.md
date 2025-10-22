@@ -28,9 +28,6 @@ Below are the specific works included:
 | Book Title                                    | Author                              | Project Gutenberg Link                                                         |
 | --------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------ |
 | *Dracula*                                     | Bram Stoker                         | [https://www.gutenberg.org/ebooks/345](https://www.gutenberg.org/ebooks/345)   |
-| *Peter Pan*                                   | J. M. Barrie                        | [https://www.gutenberg.org/ebooks/16](https://www.gutenberg.org/ebooks/16)     |
 | *The Adventures of Sherlock Holmes*           | Arthur Conan Doyle                  | [https://www.gutenberg.org/ebooks/1661](https://www.gutenberg.org/ebooks/1661) |
-| *The Odyssey*                                 | Homer (translated by Samuel Butler) | [https://www.gutenberg.org/ebooks/1727](https://www.gutenberg.org/ebooks/1727) |
-| *The Strange Case of Dr. Jekyll and Mr. Hyde* | Robert Louis Stevenson              | [https://www.gutenberg.org/ebooks/43](https://www.gutenberg.org/ebooks/43)     |
 
 > **Note:** All texts are in the public domain and are made available by Project Gutenberg under their [Terms of Use](https://www.gutenberg.org/policy/license.html).
