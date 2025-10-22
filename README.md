@@ -1,5 +1,7 @@
 # Exploring RAGAS for evaluating LLMs
 
+![Disclaimer](https://img.shields.io/badge/Disclaimer-Human_created_images._Human_reviewed_AI_text_&_code-red?style=for-the-badge)
+
 **Udemy course link: https://www.udemy.com/course/rag-llm-evaluation-ai-test/**
 
 Repository to explore LLM Evaluations using RAGAS framework
